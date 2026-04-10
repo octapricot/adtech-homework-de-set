@@ -12,5 +12,19 @@ services:
       - ./sql/01_create_tables.sql:/docker-entrypoint-initdb.d/01_create_tables.sql
       - mysql_data:/var/lib/mysql
 
+  mongodb:
+    image: mongo:7.0
+    container_name: adtech_mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: adtech123
+      MONGO_INITDB_DATABASE: adtech
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
 volumes:
   mysql_data:
+  mongo_data:
