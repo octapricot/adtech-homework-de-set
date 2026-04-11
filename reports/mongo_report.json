@@ -1,0 +1,671 @@
+{
+  "generated_at": "2026-04-10T11:37:59.971881",
+  "results": {
+    "user_ad_interactions": {
+      "description": "All ad interactions for user 59472",
+      "row_count": 1,
+      "data": [
+        {
+          "user_id": 59472,
+          "age": 55,
+          "gender": "Female",
+          "location": "UK",
+          "interests": [
+            "Fashion"
+          ],
+          "sessions": [
+            {
+              "session_id": "59472_Mobile_2024-11-23",
+              "device": "Mobile",
+              "session_start": "2024-11-23T18:44:43",
+              "session_end": "2024-11-23T01:16:37",
+              "impressions": [
+                {
+                  "event_id": "2e7120a8-bece-4e71-936d-b912bff39718",
+                  "campaign_id": 35,
+                  "campaign_name": "Campaign_35",
+                  "advertiser_name": "Advertiser_5",
+                  "ad_slot_size": "728x90",
+                  "targeting_criteria": "Age 30-43 |  Technology |  India",
+                  "timestamp": "2024-11-23T18:44:43",
+                  "bid_amount": 4.38,
+                  "ad_cost": 3.07,
+                  "ad_revenue": 0.0,
+                  "was_clicked": false,
+                  "click": null
+                },
+                {
+                  "event_id": "0fb66f03-5193-404a-b925-1ccf99e7bd58",
+                  "campaign_id": 334,
+                  "campaign_name": "Campaign_334",
+                  "advertiser_name": "Advertiser_36",
+                  "ad_slot_size": "728x90",
+                  "targeting_criteria": "Age 22-42 |  Travel |  India",
+                  "timestamp": "2024-11-23T01:16:37",
+                  "bid_amount": 0.81,
+                  "ad_cost": 0.58,
+                  "ad_revenue": 0.0,
+                  "was_clicked": false,
+                  "click": null
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Mobile_2024-10-25",
+              "device": "Mobile",
+              "session_start": "2024-10-25T03:59:20",
+              "session_end": "2024-10-25T03:59:20",
+              "impressions": [
+                {
+                  "event_id": "337bbfd5-3118-4a36-9824-b91d2eaad479",
+                  "campaign_id": 29,
+                  "campaign_name": "Campaign_29",
+                  "advertiser_name": "Advertiser_4",
+                  "ad_slot_size": "728x90",
+                  "targeting_criteria": "Age 18-49 |  Gaming |  India",
+                  "timestamp": "2024-10-25T03:59:20",
+                  "bid_amount": 1.08,
+                  "ad_cost": 0.86,
+                  "ad_revenue": 7.72,
+                  "was_clicked": true,
+                  "click": {
+                    "click_timestamp": "2024-10-25T04:02:53",
+                    "ad_revenue": 7.72
+                  }
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Tablet_2024-11-12",
+              "device": "Tablet",
+              "session_start": "2024-11-12T00:25:50",
+              "session_end": "2024-11-12T00:25:50",
+              "impressions": [
+                {
+                  "event_id": "1e156a6b-2ddf-415e-ba55-1026a9cb81f8",
+                  "campaign_id": 257,
+                  "campaign_name": "Campaign_257",
+                  "advertiser_name": "Advertiser_27",
+                  "ad_slot_size": "160x600",
+                  "targeting_criteria": "Age 28-39 |  Gaming |  Germany",
+                  "timestamp": "2024-11-12T00:25:50",
+                  "bid_amount": 1.17,
+                  "ad_cost": 0.9,
+                  "ad_revenue": 9.59,
+                  "was_clicked": true,
+                  "click": {
+                    "click_timestamp": "2024-11-12T00:26:12",
+                    "ad_revenue": 9.59
+                  }
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Mobile_2024-10-19",
+              "device": "Mobile",
+              "session_start": "2024-10-19T15:38:32",
+              "session_end": "2024-10-19T15:38:32",
+              "impressions": [
+                {
+                  "event_id": "995f7dd4-72d0-41f7-9b8e-c4159093e28c",
+                  "campaign_id": 431,
+                  "campaign_name": "Campaign_431",
+                  "advertiser_name": "Advertiser_45",
+                  "ad_slot_size": "728x90",
+                  "targeting_criteria": "Age 25-32 |  Fashion |  UK",
+                  "timestamp": "2024-10-19T15:38:32",
+                  "bid_amount": 3.74,
+                  "ad_cost": 2.9,
+                  "ad_revenue": 0.0,
+                  "was_clicked": false,
+                  "click": null
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Mobile_2024-11-14",
+              "device": "Mobile",
+              "session_start": "2024-11-14T00:49:26",
+              "session_end": "2024-11-14T00:49:26",
+              "impressions": [
+                {
+                  "event_id": "36a488f2-91bc-4e0b-91f7-eb340be429f8",
+                  "campaign_id": 536,
+                  "campaign_name": "Campaign_536",
+                  "advertiser_name": "Advertiser_54",
+                  "ad_slot_size": "300x250",
+                  "targeting_criteria": "Age 22-47 |  Finance |  USA",
+                  "timestamp": "2024-11-14T00:49:26",
+                  "bid_amount": 1.95,
+                  "ad_cost": 1.44,
+                  "ad_revenue": 0.0,
+                  "was_clicked": false,
+                  "click": null
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Desktop_2024-10-24",
+              "device": "Desktop",
+              "session_start": "2024-10-24T23:41:18",
+              "session_end": "2024-10-24T23:41:18",
+              "impressions": [
+                {
+                  "event_id": "a0770022-caba-4936-bafc-ef6e6e9ba291",
+                  "campaign_id": 824,
+                  "campaign_name": "Campaign_824",
+                  "advertiser_name": "Advertiser_83",
+                  "ad_slot_size": "300x250",
+                  "targeting_criteria": "Age 24-31 |  Technology |  Germany",
+                  "timestamp": "2024-10-24T23:41:18",
+                  "bid_amount": 4.06,
+                  "ad_cost": 3.8,
+                  "ad_revenue": 7.37,
+                  "was_clicked": true,
+                  "click": {
+                    "click_timestamp": "2024-10-24T23:46:05",
+                    "ad_revenue": 7.37
+                  }
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Mobile_2024-10-23",
+              "device": "Mobile",
+              "session_start": "2024-10-23T04:54:03",
+              "session_end": "2024-10-23T04:54:03",
+              "impressions": [
+                {
+                  "event_id": "4169ef68-2701-4553-83a9-a889a40bb0b2",
+                  "campaign_id": 262,
+                  "campaign_name": "Campaign_262",
+                  "advertiser_name": "Advertiser_28",
+                  "ad_slot_size": "300x250",
+                  "targeting_criteria": "Age 18-32 |  Travel |  USA",
+                  "timestamp": "2024-10-23T04:54:03",
+                  "bid_amount": 4.56,
+                  "ad_cost": 3.52,
+                  "ad_revenue": 0.0,
+                  "was_clicked": false,
+                  "click": null
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Desktop_2024-10-19",
+              "device": "Desktop",
+              "session_start": "2024-10-19T12:51:23",
+              "session_end": "2024-10-19T14:56:40",
+              "impressions": [
+                {
+                  "event_id": "d84acc6c-f4a7-4044-a3a6-e7f5023b1f04",
+                  "campaign_id": 225,
+                  "campaign_name": "Campaign_225",
+                  "advertiser_name": "Advertiser_23",
+                  "ad_slot_size": "728x90",
+                  "targeting_criteria": "Age 27-33 |  Health |  Australia",
+                  "timestamp": "2024-10-19T12:51:23",
+                  "bid_amount": 1.9,
+                  "ad_cost": 1.58,
+                  "ad_revenue": 0.0,
+                  "was_clicked": false,
+                  "click": null
+                },
+                {
+                  "event_id": "d73b3733-f5c6-4f41-a159-93637e1da2cd",
+                  "campaign_id": 549,
+                  "campaign_name": "Campaign_549",
+                  "advertiser_name": "Advertiser_55",
+                  "ad_slot_size": "728x90",
+                  "targeting_criteria": "Age 22-50 |  Fashion |  UK",
+                  "timestamp": "2024-10-19T14:56:40",
+                  "bid_amount": 3.52,
+                  "ad_cost": 2.6,
+                  "ad_revenue": 3.06,
+                  "was_clicked": true,
+                  "click": {
+                    "click_timestamp": "2024-10-19T14:57:25",
+                    "ad_revenue": 3.06
+                  }
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Mobile_2024-10-31",
+              "device": "Mobile",
+              "session_start": "2024-10-31T14:42:04",
+              "session_end": "2024-10-31T14:42:04",
+              "impressions": [
+                {
+                  "event_id": "f73b3ed0-2c56-4ae5-9c36-49f78bbd4e58",
+                  "campaign_id": 173,
+                  "campaign_name": "Campaign_173",
+                  "advertiser_name": "Advertiser_18",
+                  "ad_slot_size": "728x90",
+                  "targeting_criteria": "Age 27-44 |  Sports |  UK",
+                  "timestamp": "2024-10-31T14:42:04",
+                  "bid_amount": 2.98,
+                  "ad_cost": 2.76,
+                  "ad_revenue": 0.0,
+                  "was_clicked": false,
+                  "click": null
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Tablet_2024-10-28",
+              "device": "Tablet",
+              "session_start": "2024-10-28T22:10:03",
+              "session_end": "2024-10-28T22:10:03",
+              "impressions": [
+                {
+                  "event_id": "fa22a8cd-c3d7-4f5f-920a-21009999e245",
+                  "campaign_id": 557,
+                  "campaign_name": "Campaign_557",
+                  "advertiser_name": "Advertiser_56",
+                  "ad_slot_size": "728x90",
+                  "targeting_criteria": "Age 25-43 |  Education |  USA",
+                  "timestamp": "2024-10-28T22:10:03",
+                  "bid_amount": 1.74,
+                  "ad_cost": 1.54,
+                  "ad_revenue": 2.42,
+                  "was_clicked": true,
+                  "click": {
+                    "click_timestamp": "2024-10-28T22:11:47",
+                    "ad_revenue": 2.42
+                  }
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Mobile_2024-10-07",
+              "device": "Mobile",
+              "session_start": "2024-10-07T22:23:41",
+              "session_end": "2024-10-07T22:23:41",
+              "impressions": [
+                {
+                  "event_id": "120812e8-4fe0-4db3-91c0-304492a91502",
+                  "campaign_id": 213,
+                  "campaign_name": "Campaign_213",
+                  "advertiser_name": "Advertiser_22",
+                  "ad_slot_size": "300x250",
+                  "targeting_criteria": "Age 29-43 |  Finance |  India",
+                  "timestamp": "2024-10-07T22:23:41",
+                  "bid_amount": 1.74,
+                  "ad_cost": 1.33,
+                  "ad_revenue": 10.0,
+                  "was_clicked": true,
+                  "click": {
+                    "click_timestamp": "2024-10-07T22:23:59",
+                    "ad_revenue": 10.0
+                  }
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Tablet_2024-10-23",
+              "device": "Tablet",
+              "session_start": "2024-10-23T00:28:15",
+              "session_end": "2024-10-23T00:28:15",
+              "impressions": [
+                {
+                  "event_id": "9960797b-df56-4d09-9c51-55832aba5f8b",
+                  "campaign_id": 215,
+                  "campaign_name": "Campaign_215",
+                  "advertiser_name": "Advertiser_22",
+                  "ad_slot_size": "300x250",
+                  "targeting_criteria": "Age 20-31 |  Sports |  UK",
+                  "timestamp": "2024-10-23T00:28:15",
+                  "bid_amount": 2.51,
+                  "ad_cost": 2.24,
+                  "ad_revenue": 0.0,
+                  "was_clicked": false,
+                  "click": null
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Tablet_2024-10-20",
+              "device": "Tablet",
+              "session_start": "2024-10-20T18:44:45",
+              "session_end": "2024-10-20T18:44:45",
+              "impressions": [
+                {
+                  "event_id": "427cf92d-c462-449c-a533-5fcf19147ec5",
+                  "campaign_id": 205,
+                  "campaign_name": "Campaign_205",
+                  "advertiser_name": "Advertiser_21",
+                  "ad_slot_size": "300x250",
+                  "targeting_criteria": "Age 19-43 |  Sports |  USA",
+                  "timestamp": "2024-10-20T18:44:45",
+                  "bid_amount": 2.4,
+                  "ad_cost": 1.86,
+                  "ad_revenue": 7.22,
+                  "was_clicked": true,
+                  "click": {
+                    "click_timestamp": "2024-10-20T18:45:30",
+                    "ad_revenue": 7.22
+                  }
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Desktop_2024-10-13",
+              "device": "Desktop",
+              "session_start": "2024-10-13T05:19:45",
+              "session_end": "2024-10-13T05:19:45",
+              "impressions": [
+                {
+                  "event_id": "185451bb-cfaa-4a13-8255-c9aa97b77a8d",
+                  "campaign_id": 473,
+                  "campaign_name": "Campaign_473",
+                  "advertiser_name": "Advertiser_48",
+                  "ad_slot_size": "728x90",
+                  "targeting_criteria": "Age 21-34 |  Finance |  Australia",
+                  "timestamp": "2024-10-13T05:19:45",
+                  "bid_amount": 2.72,
+                  "ad_cost": 2.56,
+                  "ad_revenue": 0.0,
+                  "was_clicked": false,
+                  "click": null
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Mobile_2024-12-02",
+              "device": "Mobile",
+              "session_start": "2024-12-02T20:56:15",
+              "session_end": "2024-12-02T20:56:15",
+              "impressions": [
+                {
+                  "event_id": "f315e412-6b84-4fc4-97f1-50a950b5ac86",
+                  "campaign_id": 513,
+                  "campaign_name": "Campaign_513",
+                  "advertiser_name": "Advertiser_52",
+                  "ad_slot_size": "160x600",
+                  "targeting_criteria": "Age 21-31 |  Fashion |  India",
+                  "timestamp": "2024-12-02T20:56:15",
+                  "bid_amount": 2.37,
+                  "ad_cost": 1.79,
+                  "ad_revenue": 0.0,
+                  "was_clicked": false,
+                  "click": null
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Tablet_2024-10-30",
+              "device": "Tablet",
+              "session_start": "2024-10-30T06:39:42",
+              "session_end": "2024-10-30T06:39:42",
+              "impressions": [
+                {
+                  "event_id": "56c7de61-766f-49af-9b81-8e122e224143",
+                  "campaign_id": 557,
+                  "campaign_name": "Campaign_557",
+                  "advertiser_name": "Advertiser_56",
+                  "ad_slot_size": "728x90",
+                  "targeting_criteria": "Age 25-43 |  Education |  USA",
+                  "timestamp": "2024-10-30T06:39:42",
+                  "bid_amount": 4.74,
+                  "ad_cost": 3.53,
+                  "ad_revenue": 0.0,
+                  "was_clicked": false,
+                  "click": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "last_5_sessions": {
+      "description": "Last 5 sessions for user 59472",
+      "row_count": 1,
+      "data": [
+        {
+          "user_id": 59472,
+          "sessions": [
+            {
+              "session_id": "59472_Tablet_2024-10-23",
+              "device": "Tablet",
+              "session_start": "2024-10-23T00:28:15",
+              "session_end": "2024-10-23T00:28:15",
+              "impressions": [
+                {
+                  "event_id": "9960797b-df56-4d09-9c51-55832aba5f8b",
+                  "campaign_id": 215,
+                  "campaign_name": "Campaign_215",
+                  "advertiser_name": "Advertiser_22",
+                  "ad_slot_size": "300x250",
+                  "targeting_criteria": "Age 20-31 |  Sports |  UK",
+                  "timestamp": "2024-10-23T00:28:15",
+                  "bid_amount": 2.51,
+                  "ad_cost": 2.24,
+                  "ad_revenue": 0.0,
+                  "was_clicked": false,
+                  "click": null
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Tablet_2024-10-20",
+              "device": "Tablet",
+              "session_start": "2024-10-20T18:44:45",
+              "session_end": "2024-10-20T18:44:45",
+              "impressions": [
+                {
+                  "event_id": "427cf92d-c462-449c-a533-5fcf19147ec5",
+                  "campaign_id": 205,
+                  "campaign_name": "Campaign_205",
+                  "advertiser_name": "Advertiser_21",
+                  "ad_slot_size": "300x250",
+                  "targeting_criteria": "Age 19-43 |  Sports |  USA",
+                  "timestamp": "2024-10-20T18:44:45",
+                  "bid_amount": 2.4,
+                  "ad_cost": 1.86,
+                  "ad_revenue": 7.22,
+                  "was_clicked": true,
+                  "click": {
+                    "click_timestamp": "2024-10-20T18:45:30",
+                    "ad_revenue": 7.22
+                  }
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Desktop_2024-10-13",
+              "device": "Desktop",
+              "session_start": "2024-10-13T05:19:45",
+              "session_end": "2024-10-13T05:19:45",
+              "impressions": [
+                {
+                  "event_id": "185451bb-cfaa-4a13-8255-c9aa97b77a8d",
+                  "campaign_id": 473,
+                  "campaign_name": "Campaign_473",
+                  "advertiser_name": "Advertiser_48",
+                  "ad_slot_size": "728x90",
+                  "targeting_criteria": "Age 21-34 |  Finance |  Australia",
+                  "timestamp": "2024-10-13T05:19:45",
+                  "bid_amount": 2.72,
+                  "ad_cost": 2.56,
+                  "ad_revenue": 0.0,
+                  "was_clicked": false,
+                  "click": null
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Mobile_2024-12-02",
+              "device": "Mobile",
+              "session_start": "2024-12-02T20:56:15",
+              "session_end": "2024-12-02T20:56:15",
+              "impressions": [
+                {
+                  "event_id": "f315e412-6b84-4fc4-97f1-50a950b5ac86",
+                  "campaign_id": 513,
+                  "campaign_name": "Campaign_513",
+                  "advertiser_name": "Advertiser_52",
+                  "ad_slot_size": "160x600",
+                  "targeting_criteria": "Age 21-31 |  Fashion |  India",
+                  "timestamp": "2024-12-02T20:56:15",
+                  "bid_amount": 2.37,
+                  "ad_cost": 1.79,
+                  "ad_revenue": 0.0,
+                  "was_clicked": false,
+                  "click": null
+                }
+              ]
+            },
+            {
+              "session_id": "59472_Tablet_2024-10-30",
+              "device": "Tablet",
+              "session_start": "2024-10-30T06:39:42",
+              "session_end": "2024-10-30T06:39:42",
+              "impressions": [
+                {
+                  "event_id": "56c7de61-766f-49af-9b81-8e122e224143",
+                  "campaign_id": 557,
+                  "campaign_name": "Campaign_557",
+                  "advertiser_name": "Advertiser_56",
+                  "ad_slot_size": "728x90",
+                  "targeting_criteria": "Age 25-43 |  Education |  USA",
+                  "timestamp": "2024-10-30T06:39:42",
+                  "bid_amount": 4.74,
+                  "ad_cost": 3.53,
+                  "ad_revenue": 0.0,
+                  "was_clicked": false,
+                  "click": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "clicks_per_hour": {
+      "description": "Clicks per hour for Advertiser_19 on 2024-10-01",
+      "row_count": 19,
+      "data": [
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T00",
+          "clicks": 1
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T01",
+          "clicks": 1
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T02",
+          "clicks": 1
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T03",
+          "clicks": 1
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T04",
+          "clicks": 1
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T05",
+          "clicks": 1
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T06",
+          "clicks": 1
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T09",
+          "clicks": 2
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T10",
+          "clicks": 1
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T11",
+          "clicks": 1
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T12",
+          "clicks": 1
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T13",
+          "clicks": 2
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T16",
+          "clicks": 1
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T17",
+          "clicks": 2
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T18",
+          "clicks": 1
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T19",
+          "clicks": 1
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T21",
+          "clicks": 2
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T22",
+          "clicks": 3
+        },
+        {
+          "campaign": "Campaign_191",
+          "hour": "2024-10-01T23",
+          "clicks": 1
+        }
+      ]
+    },
+    "ad_fatigue_users": {
+      "description": "Users with 5+ impressions on same ad but 0 clicks",
+      "row_count": 0,
+      "data": []
+    },
+    "top_engaged_campaigns": {
+      "description": "Top 3 most engaged campaigns for user 59472",
+      "row_count": 3,
+      "data": [
+        {
+          "clicks": 1,
+          "campaign": "Campaign_29"
+        },
+        {
+          "clicks": 1,
+          "campaign": "Campaign_557"
+        },
+        {
+          "clicks": 1,
+          "campaign": "Campaign_549"
+        }
+      ]
+    }
+  }
+}

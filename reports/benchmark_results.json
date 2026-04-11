@@ -1,0 +1,32 @@
+[
+  {
+    "endpoint": "Campaign Performance",
+    "without_cache_avg_ms": 208.1,
+    "without_cache_min_ms": 114.7,
+    "without_cache_max_ms": 563.8,
+    "with_cache_avg_ms": 10.3,
+    "with_cache_min_ms": 9.6,
+    "with_cache_max_ms": 11.4,
+    "speedup_x": 20.2
+  },
+  {
+    "endpoint": "Advertiser Spending",
+    "without_cache_avg_ms": 2770.4,
+    "without_cache_min_ms": 747.3,
+    "without_cache_max_ms": 9982.2,
+    "with_cache_avg_ms": 10.1,
+    "with_cache_min_ms": 9.6,
+    "with_cache_max_ms": 11.1,
+    "speedup_x": 274.3
+  },
+  {
+    "endpoint": "User Engagements",
+    "without_cache_avg_ms": 56.3,
+    "without_cache_min_ms": 32.7,
+    "without_cache_max_ms": 129.6,
+    "with_cache_avg_ms": 10.7,
+    "with_cache_min_ms": 9.6,
+    "with_cache_max_ms": 11.4,
+    "speedup_x": 5.3
+  }
+]

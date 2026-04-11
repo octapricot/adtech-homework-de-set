@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-04-11T20:38:57.977792",
+  "period": {
+    "from": "2024-10-01",
+    "to": "2024-10-31"
+  },
+  "results": {
+    "ctr_per_campaign_per_day": {
+      "description": "CTR for Campaign 191 per day in October 2024",
+      "row_count": 23,
+      "data": [
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-23",
+          "impressions": 1,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-22",
+          "impressions": 6,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-21",
+          "impressions": 4,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-20",
+          "impressions": 8,
+          "clicks": 1,
+          "ctr_percent": 12.5
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-19",
+          "impressions": 3,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-18",
+          "impressions": 4,
+          "clicks": 1,
+          "ctr_percent": 25.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-17",
+          "impressions": 4,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-16",
+          "impressions": 5,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-15",
+          "impressions": 7,
+          "clicks": 1,
+          "ctr_percent": 14.29
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-14",
+          "impressions": 3,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-13",
+          "impressions": 2,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-12",
+          "impressions": 1,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-11",
+          "impressions": 9,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-10",
+          "impressions": 3,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-09",
+          "impressions": 5,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-08",
+          "impressions": 5,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-07",
+          "impressions": 3,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-06",
+          "impressions": 4,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-05",
+          "impressions": 3,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-04",
+          "impressions": 9,
+          "clicks": 1,
+          "ctr_percent": 11.11
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-03",
+          "impressions": 3,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-02",
+          "impressions": 7,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        },
+        {
+          "campaign_id": 191,
+          "campaign_name": "Campaign_191",
+          "event_date": "2024-10-01",
+          "impressions": 8,
+          "clicks": 0,
+          "ctr_percent": 0.0
+        }
+      ]
+    },
+    "top_5_advertisers_by_spend": {
+      "description": "Top 5 advertisers by total spend Oct 2024",
+      "row_count": 5,
+      "data": [
+        {
+          "advertiser_id": 19,
+          "advertiser_name": "Advertiser_19",
+          "total_spend": 2379.84
+        },
+        {
+          "advertiser_id": 99,
+          "advertiser_name": "Advertiser_99",
+          "total_spend": 2113.86
+        },
+        {
+          "advertiser_id": 12,
+          "advertiser_name": "Advertiser_12",
+          "total_spend": 2045.16
+        },
+        {
+          "advertiser_id": 59,
+          "advertiser_name": "Advertiser_59",
+          "total_spend": 1989.32
+        },
+        {
+          "advertiser_id": 39,
+          "advertiser_name": "Advertiser_39",
+          "total_spend": 1888.66
+        }
+      ]
+    },
+    "last_10_ads_for_user": {
+      "description": "Last 10 ads seen by user 59472",
+      "row_count": 10,
+      "data": [
+        {
+          "user_id": 59472,
+          "timestamp": "2024-12-02 20:56:15",
+          "campaign_name": "Campaign_513",
+          "advertiser_name": "Advertiser_52",
+          "device": "Mobile",
+          "was_clicked": false,
+          "ad_revenue": 0.0
+        },
+        {
+          "user_id": 59472,
+          "timestamp": "2024-11-23 18:44:43",
+          "campaign_name": "Campaign_35",
+          "advertiser_name": "Advertiser_5",
+          "device": "Mobile",
+          "was_clicked": false,
+          "ad_revenue": 0.0
+        },
+        {
+          "user_id": 59472,
+          "timestamp": "2024-11-23 01:16:37",
+          "campaign_name": "Campaign_334",
+          "advertiser_name": "Advertiser_36",
+          "device": "Mobile",
+          "was_clicked": false,
+          "ad_revenue": 0.0
+        },
+        {
+          "user_id": 59472,
+          "timestamp": "2024-11-14 00:49:26",
+          "campaign_name": "Campaign_536",
+          "advertiser_name": "Advertiser_54",
+          "device": "Mobile",
+          "was_clicked": false,
+          "ad_revenue": 0.0
+        },
+        {
+          "user_id": 59472,
+          "timestamp": "2024-11-12 00:25:50",
+          "campaign_name": "Campaign_257",
+          "advertiser_name": "Advertiser_27",
+          "device": "Tablet",
+          "was_clicked": true,
+          "ad_revenue": 9.59
+        },
+        {
+          "user_id": 59472,
+          "timestamp": "2024-10-31 14:42:04",
+          "campaign_name": "Campaign_173",
+          "advertiser_name": "Advertiser_18",
+          "device": "Mobile",
+          "was_clicked": false,
+          "ad_revenue": 0.0
+        },
+        {
+          "user_id": 59472,
+          "timestamp": "2024-10-30 06:39:42",
+          "campaign_name": "Campaign_557",
+          "advertiser_name": "Advertiser_56",
+          "device": "Tablet",
+          "was_clicked": false,
+          "ad_revenue": 0.0
+        },
+        {
+          "user_id": 59472,
+          "timestamp": "2024-10-28 22:10:03",
+          "campaign_name": "Campaign_557",
+          "advertiser_name": "Advertiser_56",
+          "device": "Tablet",
+          "was_clicked": true,
+          "ad_revenue": 2.42
+        },
+        {
+          "user_id": 59472,
+          "timestamp": "2024-10-25 03:59:20",
+          "campaign_name": "Campaign_29",
+          "advertiser_name": "Advertiser_4",
+          "device": "Mobile",
+          "was_clicked": true,
+          "ad_revenue": 7.72
+        },
+        {
+          "user_id": 59472,
+          "timestamp": "2024-10-24 23:41:18",
+          "campaign_name": "Campaign_824",
+          "advertiser_name": "Advertiser_83",
+          "device": "Desktop",
+          "was_clicked": true,
+          "ad_revenue": 7.37
+        }
+      ]
+    },
+    "top_10_active_users": {
+      "description": "Top 10 users by click count in Oct 2024",
+      "row_count": 10,
+      "data": [
+        {
+          "user_id": 59472,
+          "total_clicks": 6
+        },
+        {
+          "user_id": 266931,
+          "total_clicks": 6
+        },
+        {
+          "user_id": 63007,
+          "total_clicks": 5
+        },
+        {
+          "user_id": 218223,
+          "total_clicks": 5
+        },
+        {
+          "user_id": 336706,
+          "total_clicks": 5
+        },
+        {
+          "user_id": 541198,
+          "total_clicks": 5
+        },
+        {
+          "user_id": 64855,
+          "total_clicks": 5
+        },
+        {
+          "user_id": 101187,
+          "total_clicks": 5
+        },
+        {
+          "user_id": 241308,
+          "total_clicks": 5
+        },
+        {
+          "user_id": 5348,
+          "total_clicks": 5
+        }
+      ]
+    },
+    "top_5_advertisers_by_region": {
+      "description": "Top 5 advertisers by spend in USA Oct 2024",
+      "row_count": 5,
+      "data": [
+        {
+          "location": "USA",
+          "advertiser_id": 19,
+          "advertiser_name": "Advertiser_19",
+          "total_spend": 46430.96
+        },
+        {
+          "location": "USA",
+          "advertiser_id": 99,
+          "advertiser_name": "Advertiser_99",
+          "total_spend": 42971.63
+        },
+        {
+          "location": "USA",
+          "advertiser_id": 12,
+          "advertiser_name": "Advertiser_12",
+          "total_spend": 40704.6
+        },
+        {
+          "location": "USA",
+          "advertiser_id": 59,
+          "advertiser_name": "Advertiser_59",
+          "total_spend": 39098.24
+        },
+        {
+          "location": "USA",
+          "advertiser_id": 87,
+          "advertiser_name": "Advertiser_87",
+          "total_spend": 37001.1
+        }
+      ]
+    }
+  }
+}
