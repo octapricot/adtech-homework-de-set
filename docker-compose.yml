@@ -1,11 +1,12 @@
+# docker-compose.yml
 services:
   mysql:
     image: mysql:8.0
     container_name: adtech_mysql
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: adtech123
-      MYSQL_DATABASE: adtech
+      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}
+      MYSQL_DATABASE: ${DB_NAME}
     ports:
       - "3306:3306"
     volumes:
@@ -18,13 +19,33 @@ services:
     restart: always
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
-      MONGO_INITDB_ROOT_PASSWORD: adtech123
-      MONGO_INITDB_DATABASE: adtech
+      MONGO_INITDB_ROOT_PASSWORD: ${DB_PASSWORD}
+      MONGO_INITDB_DATABASE: ${DB_NAME}
     ports:
       - "27017:27017"
     volumes:
       - mongo_data:/data/db
 
+  cassandra:
+    image: cassandra:4.1
+    container_name: adtech_cassandra
+    restart: always
+    environment:
+      - CASSANDRA_CLUSTER_NAME=adtech_cluster
+      - CASSANDRA_DC=dc1
+      - HEAP_NEWSIZE=128M
+      - MAX_HEAP_SIZE=512M
+    ports:
+      - "9042:9042"
+    volumes:
+      - cassandra_data:/var/lib/cassandra
+    healthcheck:
+      test: ["CMD", "cqlsh", "-e", "describe keyspaces"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+
 volumes:
   mysql_data:
   mongo_data:
+  cassandra_data:
